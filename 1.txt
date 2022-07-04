@@ -1,0 +1,2 @@
+Bom dia !
+Seja bem vindo ao curso de git  e github.
