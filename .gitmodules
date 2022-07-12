@@ -1,0 +1,3 @@
+[submodule "submódulo"]
+	path = submódulo
+	url = https://github.com/DineiSG/submodulo.git
